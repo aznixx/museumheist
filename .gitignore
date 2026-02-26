@@ -1,0 +1,40 @@
+# Unity generated
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+
+# Unity cache
+[Cc]rashes/
+[Aa]ssets/[Aa]sset[Ss]tore-5.x/
+
+# Visual Studio / Rider
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj
+*.sln
+ExportedObj/
+.consulo/
+
+# VS Code
+.vscode/
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Claude Code
+.claude/
