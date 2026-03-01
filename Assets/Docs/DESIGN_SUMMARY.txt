@@ -1,0 +1,27 @@
+GAME DESIGN SUMMARY
+===================
+SETTING: Egyptian museum with multiple interconnected rooms
+
+GAMEPLAY LOOP (per run, 30-45 min):
+1. Briefing (2 min) - Show artifact location, guards, map
+2. Planning (3-5 min) - Team talks strategy
+3. Infiltration (10-15 min) - Sneak through museum
+4. Theft (1 min) - Grab artifact, alarms trigger
+5. Extraction (5-10 min) - Race to exit
+6. Result (1 min) - Success or restart
+
+DIFFICULTY LEVELS:
+- Easy: 5 min timer, fewer guards
+- Normal: 4 min timer, standard guards
+- Hard: 3 min timer, more guards
+
+REPLAYABILITY:
+- Procedural guard positions (different each run)
+- Multiple escape routes
+- Secondary loot for bonus points
+- Leaderboard scores
+
+PLATFORMS:
+- PC (Steam) first
+- 1-4 player co-op
+- Proximity voice chat
